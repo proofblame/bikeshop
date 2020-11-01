@@ -1,0 +1,16 @@
+@import url("./__logo/header__logo.css");
+@import url("./__nav/header__nav.css");
+@import url("./__items/header__items.css");
+@import url("./__item/header__item.css");
+@import url("./__link/header__link.css");
+@import url("./__link/_active/header__link_active.css");
+@import url("./__search/header__search.css");
+
+.header {
+    max-width: 1920px;
+    margin: 0 auto;
+    padding-top: 65px;
+    margin-bottom: 54px;
+    display: flex;
+    align-items: center;
+}
