@@ -1,0 +1,9 @@
+.place__cost {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 62px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: rgba(255, 255, 255, 0.3);
+}

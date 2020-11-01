@@ -1,0 +1,14 @@
+.place__button {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #fff;
+    min-height: 78px;
+    background-image: url("../../../images/add-button.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 78px 78px;
+    padding-left: 112px;
+    display: flex;
+    align-items: center;
+}

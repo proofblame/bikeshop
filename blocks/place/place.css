@@ -1,0 +1,14 @@
+@import url("./__image/place__image.css");
+@import url("./__image/_previous/place__image_previous.css");
+@import url("./__article/place__article.css");
+@import url("./__title/place__title.css");
+@import url("./__subtitle/place__subtitle.css");
+@import url("./__cost/place__cost.css");
+@import url("./__description/place__description.css");
+@import url("./__button/place__button.css");
+@import url("./__button-bold/place__button-bold.css");
+
+.place {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr
+}
